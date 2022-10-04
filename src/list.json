@@ -5,7 +5,8 @@
         "instance": "Onyxia's Lair",
         "mount": "Onyxian Drake",
         "location": "Dustwallow Marsh, Kalimdor",
-        "boss": "Onyxia"
+        "boss": "Onyxia",
+        "difficulty": "Any"
       }
     ]
   },
@@ -15,13 +16,100 @@
         "instance": "Karazhan",
         "mount": "Fiery Warhorse",
         "location": "Deadwind Pass, Eastern Kingdoms",
-        "boss": "Attumen the Huntsman"
+        "boss": "Attumen the Huntsman",
+        "difficulty": "Any"
       },
       {
         "instance": "The Eye",
         "mount": "Ashes of Al'ar",
         "location": "Netherstorm, Outland",
-        "boss": "Kael'thas Sunstrider"
+        "boss": "Kael'thas Sunstrider",
+        "difficulty": "Any"
+      }
+    ]
+  },
+  {
+    "wrathOfTheLichKing": [
+      {
+        "instance": "The Eye of Eternity",
+        "mount": "Blue Drake",
+        "location": "Borean Tundra, Northrend",
+        "boss": "Malygos",
+        "difficulty": "Any"
+      },
+      {
+        "instance": "The Eye of Eternity",
+        "mount": "Azure Drake",
+        "location": "Borean Tundra, Northrend",
+        "boss": "Malygos",
+        "difficulty": "Any"
+      },
+      {
+        "instance": "Vault of Archavon",
+        "mount": "Grand Black War Mammoth",
+        "location": "Wintergrasp, Northrend",
+        "boss": "All Bosses",
+        "difficulty": "Any"
+      },
+      {
+        "instance": "Icecrown Citadel",
+        "mount": "Invincible",
+        "location": "Icecrown, Northrend",
+        "boss": "Lich King",
+        "difficulty": "25 man, Heroic"
+      },
+      {
+        "instance": "Ulduar",
+        "mount": "Mimiron's Head",
+        "location": "Storm Peaks, Northrend",
+        "boss": "Yogg-Saron",
+        "difficulty": "Any"
+      }
+    ]
+  },
+  {
+    "cataclysm": [
+      {
+        "instance": "Throne of the Four Winds",
+        "mount": "Drake of the South Wind",
+        "location": "Uldum, Kalimdor",
+        "boss": "Al'Akir",
+        "difficulty": "Any"
+      },
+      {
+        "instance": "Firelands",
+        "mount": "Flametalon of Alysrazor",
+        "location": "Mount Hyjal, Kalimdor",
+        "boss": "Alysrazor",
+        "difficulty": "Any"
+      },
+      {
+        "instance": "Firelands",
+        "mount": "Pureblood Firehawk",
+        "location": "Mount Hyjal, Kalimdor",
+        "boss": "Ragnaros",
+        "difficulty": "Any"
+      },
+      {
+        "instance": "Dragon Soul",
+        "mount": "Experiment 12-B",
+        "location": "Caverns of Time, Kalimdor",
+        "boss": "Ultraxion",
+        "difficulty": "Any"
+      },
+      {
+        "instance": "Dragon Soul",
+        "mount": "Blazing Drake",
+        "location": "Caverns of Time, Kalimdor",
+        "boss": "Madness of Deathwing",
+        "difficulty": "Any"
+      },
+      {
+        "instance": "Dragon Soul",
+        "mount": "Life-Binder's Handmaiden",
+        "location": "Caverns of Time, Kalimdor",
+        "boss": "Madness of Deathwing",
+        "difficulty": "Heroic"
       }
     ]
   }

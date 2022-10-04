@@ -15,6 +15,27 @@ export default function Expansion({ list }) {
       case "theBurningCrusade":
         setExpansionName("The Burning Crusade");
         break;
+      case "wrathOfTheLichKing":
+        setExpansionName("Wrath of the Lich King");
+        break;
+      case "cataclysm":
+        setExpansionName("Cataclysm");
+        break;
+      case "mistsOfPandaria":
+        setExpansionName("Mists of Pandaria");
+        break;
+      case "warlordsOfDraenor":
+        setExpansionName("Warlords of Draenor");
+        break;
+      case "legion":
+        setExpansionName("Legion");
+        break;
+      case "battleForAzeroth":
+        setExpansionName("Battle for Azeroth");
+        break;
+      case "shadowlands":
+        setExpansionName("Shadowlands");
+        break;
       default:
         break;
     }
