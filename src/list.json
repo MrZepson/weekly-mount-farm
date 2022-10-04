@@ -1,0 +1,28 @@
+[
+  {
+    "classic": [
+      {
+        "instance": "Onyxia's Lair",
+        "mount": "Onyxian Drake",
+        "location": "Dustwallow Marsh, Kalimdor",
+        "boss": "Onyxia"
+      }
+    ]
+  },
+  {
+    "theBurningCrusade": [
+      {
+        "instance": "Karazhan",
+        "mount": "Fiery Warhorse",
+        "location": "Deadwind Pass, Eastern Kingdoms",
+        "boss": "Attumen the Huntsman"
+      },
+      {
+        "instance": "The Eye",
+        "mount": "Ashes of Al'ar",
+        "location": "Netherstorm, Outland",
+        "boss": "Kael'thas Sunstrider"
+      }
+    ]
+  }
+]

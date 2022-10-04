@@ -1,3 +1,12 @@
+import Expansion from "./Components/Expansion";
+import list from "./list.json";
+
 export default function App() {
-  return <h1>Hello world!</h1>;
+  return (
+    <>
+      {list.map((item, index) => {
+        return <Expansion list={item} key={index} />;
+      })}
+    </>
+  );
 }
